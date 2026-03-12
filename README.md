@@ -12,15 +12,15 @@ An Attendance Management System is a software application designed to manage and
 
 ##🛠️ Technologies Used
   
-    Language: Java
-    Concepts Used:
-    Classes & Objects
-    Inheritance
-    Arrays / ArrayList
-    Loops & Conditional Statements
-    File Handling (optional)
-    IDE: Eclipse / IntelliJ IDEA / NetBeans / VS Code
-    Version Control: Git & GitHub
+ • Language: Java
+ • Concepts Used:
+ • Classes & Objects
+ • Inheritance
+ • Arrays / ArrayList
+ • Loops & Conditional Statements
+ • File Handling (optional)
+ • IDE: Eclipse / IntelliJ IDEA / NetBeans / VS Code
+ •  Version Control: Git & GitHub
 
 ## 📂 Project Structure
  Attendance-Management-System
@@ -34,53 +34,37 @@ An Attendance Management System is a software application designed to manage and
 
 ## ⚙️ Installation
 1️⃣ Clone the repository
-Bash
-
 git clone https://github.com/your-username/Attendance-Management-System.git
 2️⃣ Navigate to the project directory
-Bash
-
 cd Attendance-Management-System
 3️⃣ Compile the Java files
-Bash
-
 javac Main.java
 4️⃣ Run the program
-Bash
-
 java Main
+
+
 ## ▶️ How It Works
-The user runs the Java program.
 
-The system allows adding student details.
-
-Attendance can be marked as Present/Absent.
-
-The system stores and displays attendance records.
+• The user runs the Java program.
+• The system allows adding student details.
+• Attendance can be marked as Present/Absent.
+• The system stores and displays attendance records.
 
 ## 📊 Advantages
-Reduces manual attendance work
-
-Easy to maintain student records
-
-Faster attendance tracking
-
-Improves accuracy in attendance management
+• Reduces manual attendance work
+• Easy to maintain student records
+• Faster attendance tracking
+• Improves accuracy in attendance management
 
 🔮 Future Enhancements
-GUI interface using Java Swing / JavaFX
-
-Database integration using MySQL
-
-Generate attendance reports in Excel/PDF
-
-Login system for admin and teachers
+• GUI interface using Java Swing / JavaFX
+• Database integration using MySQL
+• Generate attendance reports in Excel/PDF
+• Login system for admin and teachers
 
 ## 👨‍💻 Author
-Bhargav Reddy
+   • Bhargav Reddy
 
-## 📜 License
-This project is licensed under the MIT License.
 
 
 
