@@ -2,14 +2,15 @@
 An Attendance Management System is a software application designed to manage and track student or employee attendance efficiently. This project helps automate the process of recording attendance, reducing manual errors and saving time.
 
 ## 🚀 Features
-📌 Add and manage students or employees
-📌 Mark daily attendance
-📌 View attendance records
-📌 Update or delete attendance entries
-📌 Generate attendance reports
-📌 Simple and user-friendly interface
 
-##🛠️ Technologies Used
+- 📌 Add and manage students or employees
+- 📌 Mark daily attendance
+- 📌 View attendance records
+- 📌 Update or delete attendance entries
+- 📌 Generate attendance reports
+- 📌 Simple and user-friendly interface
+
+## 🛠️ Technologies Used
   
  • Language: Java
  • Concepts Used:
