@@ -12,15 +12,15 @@ An Attendance Management System is a software application designed to manage and
 
 ## 🛠️ Technologies Used
   
- • Language: Java
- • Concepts Used:
- • Classes & Objects
- • Inheritance
- • Arrays / ArrayList
- • Loops & Conditional Statements
- • File Handling (optional)
- • IDE: Eclipse / IntelliJ IDEA / NetBeans / VS Code
- •  Version Control: Git & GitHub
+ - Language: Java
+ - Concepts Used:
+ - Classes & Objects
+ - Inheritance
+ - Arrays / ArrayList
+ - Loops & Conditional Statements
+ - File Handling (optional)
+ - IDE: Eclipse / IntelliJ IDEA / NetBeans / VS Code
+ -  Version Control: Git & GitHub
 
 ## 📂 Project Structure
  Attendance-Management-System
